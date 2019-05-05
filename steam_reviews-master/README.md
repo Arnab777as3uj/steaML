@@ -2,7 +2,7 @@
 
 ## Background
 
-These datasets were scraped from the Steam [website](http://store.steampowered.com/) as part of a research project for my master's thesis. Each review comes alongside numerous pieces of data, including the number of people who marked the review helpful, the number of people who marked the review funny, the number of friends the reviewer has on the site, etc. One of the more important pieces of data, however, is the number of hours that the reviewer played the game that they are reviewing. My project -- at least, initially -- was focused on creating models of reviews that would be able to predict how useful they were or whether they were real reviews or not and I was using this piece of data as a proxy for that. (If at all interested in finding out more information about my work, I store the code related to that project in [this GitHub repository](https://github.com/mulhod/reviewer_experience_prediction).)
+These datasets were scraped from the Steam website. Each review comes alongside numerous pieces of data, including the number of people who marked the review helpful, the number of people who marked the review funny, the number of friends the reviewer has on the site, etc. Our main focus in on text review column.
 
 ## Data
 
